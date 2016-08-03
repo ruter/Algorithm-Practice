@@ -1,3 +1,5 @@
+#-*- coding: UTF-8 -*-
+
 def binSearch(arr, n, val):
     left = 0
     right = n - 1
